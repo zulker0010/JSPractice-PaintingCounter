@@ -16,4 +16,6 @@ function save(){
  console.log(count)
 }
 
+console.log("Hello Painter")
+
 save()
